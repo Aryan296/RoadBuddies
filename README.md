@@ -7,7 +7,6 @@ Welcome to the Carpooling App repository! This project is a mobile application b
 ## Table of Contents
 
 - [Features](#features)
-- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
