@@ -1,0 +1,299 @@
+{
+  "AmbalaCanttRailwayStation": {
+      "description": "Ambala Cantt Railway Station",
+      "geometry": {
+        "location": {
+          "lat": 30.370860,
+          "lng": 76.766330
+        }
+      }
+    },
+    "SadarBazar": {
+      "description": "Sadar Bazar",
+      "geometry": {
+        "location": {
+          "lat": 30.337250,
+          "lng": 76.832947
+        }
+      }
+    },
+    "JaggiCityCenter": {
+      "description": "Jaggi City Center",
+      "geometry": {
+        "location": {
+          "lat": 30.391890,
+          "lng": 76.784620
+        }
+      }
+    },
+    "AmbalaCanttBusStop": {
+      "description": "Ambala Cantt Bus Stop",
+      "geometry": {
+        "location": {
+          "lat": 30.337040,
+          "lng": 76.832700
+        }
+      }
+    },
+    "AmbalaCity": {
+      "description": "Ambala City",
+      "geometry": {
+        "location": {
+          "lat": 30.373421239028325,
+          "lng": 76.78525915231485
+        }
+      }
+    },
+    "AmbalaCityBusStop": {
+      "description": "Ambala City Bus Stop",
+      "geometry": {
+        "location": {
+          "lat": 30.376458800467194,
+          "lng": 76.76957449796716
+        }
+      }
+    },
+    "AmbalaCityRailwayStation": {
+      "description": "Ambala City Railway Station",
+      "geometry": {
+        "location": {
+          "lat": 30.378145218199187,
+          "lng": 76.76485964028761
+        }
+      }
+    },
+    "Banur": {
+      "description": "Banur",
+      "geometry": {
+        "location": {
+          "lat": 30.563172906266264,
+          "lng": 76.7119506654006
+        }
+      }
+    },
+    "AirportLights": {
+      "description": "Airport Lights",
+      "geometry": {
+        "location": {
+          "lat": 30.623688948576756,
+          "lng": 76.78980790408802
+        }
+      }
+    },
+    "ChitkaraUniversity": {
+      "description": "Chitkara University",
+      "geometry": {
+        "location": {
+          "lat": 30.516354520068546,
+          "lng": 76.66036790305185
+        }
+      }
+    },
+    "RajpuraRailwayStation": {
+      "description": "Rajpura Railway Station",
+      "geometry": {
+        "location": {
+          "lat": 30.486442486981968,
+          "lng": 76.59433342099821
+        }
+      }
+    },
+    "RajpuraBypass": {
+      "description": "Rajpura Bypass",
+      "geometry": {
+        "location": {
+          "lat": 30.492855104533827,
+          "lng": 76.600676944281
+        }
+      }
+    },
+    "Prime": {
+      "description": "Prime Hub",
+      "geometry": {
+        "location": {
+          "lat": 30.50566336172581,
+          "lng": 76.63335449393873
+        }
+      }
+    },
+    "BollywoodGully": {
+      "description": "Bollywood Gully",
+      "geometry": {
+        "location": {
+          "lat": 30.576070660809673,
+          "lng": 76.74236486735079
+        }
+      }
+    },
+    "ThermalPowerPlant": {
+      "description": "Thermal Power Plant",
+      "geometry": {
+        "location": {
+          "lat": 30.564197688289962,
+          "lng": 76.61448756032142
+        }
+      }
+    },
+    "RajpuraAFS": {
+      "description": "Rajpura AFS",
+      "geometry": {
+        "location": {
+          "lat": 30.358898047560118,
+          "lng": 76.81619696133748
+        }
+      }
+    },
+    "AmbalaCantAFS": {
+      "description": "Ambala Cant AFS",
+      "geometry": {
+        "location": {
+          "lat": 30.65925494323552,
+          "lng": 76.8220613256529
+        }
+      }
+    },
+    "Zirakpur": {
+      "description": "Zirakpur",
+      "geometry": {
+        "location": {
+          "lat": 30.620174215934835,
+          "lng": 76.82377834608754
+        }
+      }
+    },
+    "DhillonPlaza": {
+      "description": "Dhillon Plaza",
+      "geometry": {
+        "location": {
+          "lat": 30.637610091332917,
+          "lng": 76.82186272049404
+        }
+      }
+    },
+    "CosmoMall": {
+      "description": "Cosmo Mall",
+      "geometry": {
+        "location": {
+          "lat": 30.70640876546272,
+          "lng": 76.80097799377624
+        }
+      }
+    },
+    "Elante": {
+      "description": "Elante",
+      "geometry": {
+        "location": {
+          "lat": 30.744826627320208,
+          "lng": 76.81065099435166
+        }
+      }
+    },
+    "Sukhna": {
+      "description": "Sukhna",
+      "geometry": {
+        "location": {
+          "lat": 30.70799329357838,
+          "lng": 76.81447708251918
+        }
+      }
+    },
+    "Hyatt": {
+      "description": "Hyatt",
+      "geometry": {
+        "location": {
+          "lat": 30.73682214522133,
+          "lng": 76.77762316469388
+        }
+      }
+    },
+    "Sec17ISBT": {
+      "description": "Sec 17 ISBT",
+      "geometry": {
+        "location": {
+          "lat": 30.716924880050623,
+          "lng": 76.74370030972324
+        }
+      }
+    },
+    "Sec43ISBT": {
+      "description": "Sec 43 ISBT",
+      "geometry": {
+        "location": {
+          "lat": 30.342049319495043,
+          "lng": 76.40265138643716
+        }
+      }
+    },
+    "UrbanEstatePatiala": {
+      "description": "Urban Estate Patiala",
+      "geometry": {
+        "location": {
+          "lat": 30.35499209900063,
+          "lng": 76.45079077286891
+        }
+      }
+    },
+    "DukhNiwaran": {
+      "description": "Dukh Niwaran",
+      "geometry": {
+        "location": {
+          "lat": 30.347220484884716,
+          "lng": 76.39701914838287
+        }
+      }
+    },
+    "OMAXEPatiala": {
+      "description": "OMAXE Patiala",
+      "geometry": {
+        "location": {
+          "lat": 30.33816925449057,
+          "lng": 76.39466646013403
+        }
+      }
+    },
+    "RoseGarden": {
+      "description": "Rose Garden",
+      "geometry": {
+        "location": {
+          "lat": 30.733517675534145,
+          "lng": 76.77942863420562
+        }
+      }
+    },
+    "RockGarden": {
+      "description": "Rock Garden",
+      "geometry": {
+        "location": {
+          "lat": 30.753255626091182,
+          "lng": 76.8083321848984
+        }
+      }
+    },
+    "Mohali": {
+      "description": "Mohali",
+      "geometry": {
+        "location": {
+          "lat": 30.690635548772303,
+          "lng": 76.70253312299049
+        }
+      }
+    },
+    "ChdAirport": {
+      "description": "Chd Airport",
+      "geometry": {
+        "location": {
+          "lat": 30.66808508299329,
+          "lng": 76.78607462425353
+        }
+      }
+    },
+    "ChdRlyStn": {
+      "description": "Chd Rly Stn",
+      "geometry": {
+        "location": {
+          "lat": 30.702337142685565,
+          "lng": 76.8210360681107
+        }
+      }
+    }
+}
